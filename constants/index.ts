@@ -1,5 +1,6 @@
-import { FaYoutube, FaFacebook } from "react-icons/fa";
+import { FaYoutube, FaFacebook, FaDiscord } from "react-icons/fa";
 import {
+
   RxDiscordLogo,
   RxGithubLogo,
   RxInstagramLogo,
@@ -92,17 +93,17 @@ export const SOCIALS = [
   {
     name: "Instagram",
     icon: RxInstagramLogo,
-    link: "https://instagram.com",
+    link: "https://instagram.com/GodsEyeGroup",
   },
   {
-    name: "Facebook",
-    icon: FaFacebook,
-    link: "https://facebook.com",
+    name: "Discord",
+    icon: FaDiscord,
+    link: "https://discord.com",
   },
   {
     name: "Twitter",
     icon: RxTwitterLogo,
-    link: "https://twitter.com",
+    link: "https://x.com/GodsEyeGroup",
   },
 ] as const;
 
@@ -259,12 +260,11 @@ export const OTHER_SKILL = [
 
 export const PROJECTS = [
   {
-    title: "Modern Next.js 14 Portfolio",
+    title: "GE | Crypto Client Panel",
     description:
-      'Embark on a journey through my professional evolution with the "Modern Next.js Portfolio" - a dynamic showcase of my skills, experiences, and passion for web development. Crafted with precision and powered by Next.js, this portfolio is more than just a static display; it\'s an immersive experience that reflects the cutting edge of modern web technologies.',
-    image: "/projects/project-1.png",
-    link: "https://example.com",
-  },
+      'GodsEye Crypto Client Panel is an advanced management interface tailored for efficient cryptocurrency mining operations. Designed for enthusiasts and professionals, this platform simplifies the deployment, monitoring, and optimization of mining activities across multiple devices and networks.',
+    image: "/projects/project-1.png"
+  },/**
   {
     title: "Interactive Cards Portfolio",
     description:
@@ -278,7 +278,7 @@ export const PROJECTS = [
       'Embark on an interstellar journey with my "Space Themed Website", a mesmerizing space-themed website that invites you to explore the cosmic wonders beyond our world. Immerse yourself in an awe-inspiring digital experience that blends cutting-edge design with the mysteries of the universe.',
     image: "/projects/project-3.png",
     link: "https://example.com",
-  },
+  },   */
 ] as const;
 
 export const FOOTER_DATA = [
