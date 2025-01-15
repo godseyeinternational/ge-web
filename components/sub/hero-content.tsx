@@ -24,7 +24,7 @@ export const HeroContent = () => {
         >
           <SparklesIcon className="text-[#b49bff] mr-[10px] h-5 w-5" />
           <h1 className="Welcome-text text-[13px]">
-            Provided by GE | International
+            Provided by GodsEye Group 
           </h1>
         </motion.div>
 
@@ -35,9 +35,9 @@ export const HeroContent = () => {
           <span>
             {" "}
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
-              GodsEye 
+              GodsEye — 
             </span>{" "}
-            <text>{`\nprivacy is an illusion, we prove it every day.`}</text>
+            privacy is an illusion, we prove it every day.
           </span>
         </motion.div>
 
