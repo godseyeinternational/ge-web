@@ -9,10 +9,10 @@ import {
   SKILL_DATA,
 } from "@/constants";
 
-export const Skills = () => {
+export const About = () => {
   return (
     <section
-      id="skills"
+      id="about"
       style={{ transform: "scale(0.9)" }}
       className="flex flex-col items-center justify-center gap-3 h-full relative overflow-hidden py-20"
     >

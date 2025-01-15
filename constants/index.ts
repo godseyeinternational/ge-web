@@ -309,37 +309,37 @@ export const FOOTER_DATA = [
       {
         name: "Instagram",
         icon: RxInstagramLogo,
-        link: "https://instagram.com",
+        link: "https://instagram.com/GodsEye",
       },
       {
         name: "Twitter",
         icon: RxTwitterLogo,
-        link: "https://twitter.com",
+        link: "https://x.com/GodsEye",
       },
       {
         name: "Linkedin",
         icon: RxLinkedinLogo,
-        link: "https://linkedin.com",
+        link: "https://linkedin.com/GodsEye",
       },
     ],
   },
   {
-    title: "About",
+    title: "About Us",
     data: [
       {
         name: "Become Sponsor",
         icon: null,
-        link: "https://youtube.com",
+        link: "https://youtube.com/GodsEye",
       },
       {
-        name: "Learning about me",
+        name: "Learning about us",
         icon: null,
         link: "https://example.com",
       },
       {
-        name: "Contact Me",
+        name: "Contact Us",
         icon: null,
-        link: "mailto:contact@example.com",
+        link: "godseyeinternational@proton.me",
       },
     ],
   },
@@ -347,12 +347,8 @@ export const FOOTER_DATA = [
 
 export const NAV_LINKS = [
   {
-    title: "About me",
-    link: "#about-me",
-  },
-  {
-    title: "Skills",
-    link: "#skills",
+    title: "About Us",
+    link: "#about",
   },
   {
     title: "Resources",
