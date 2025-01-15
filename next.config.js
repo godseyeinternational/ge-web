@@ -3,6 +3,8 @@ const nextConfig = {}
 const { DeleteSourceMapsPlugin } = require('webpack-delete-sourcemaps-plugin');
 module.exports = nextConfig 
 
+sentry: { hideSourceMaps: true }
+
 {
   // ...
   webpack: (config, { isServer }) => {
