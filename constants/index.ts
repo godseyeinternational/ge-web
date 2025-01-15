@@ -263,7 +263,8 @@ export const PROJECTS = [
     title: "GE | Crypto Client Panel",
     description:
       'GodsEye Crypto Client Panel is an advanced management interface tailored for efficient cryptocurrency mining operations. Designed for enthusiasts and professionals, this platform simplifies the deployment, monitoring, and optimization of mining activities across multiple devices and networks.',
-    image: "/projects/project-1.png"
+    image: "/projects/project-1.png",
+    link: "#"
   },/**
   {
     title: "Interactive Cards Portfolio",
