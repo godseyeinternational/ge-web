@@ -1,7 +1,7 @@
 import { Encryption } from "@/components/main/encryption";
 import { Hero } from "@/components/main/hero";
 import { Resources } from "@/components/main/projects";
-import { About } from "@/components/main/about";
+import { Skills } from "@/components/main/skills";
 
 export default function Home() {
   return (

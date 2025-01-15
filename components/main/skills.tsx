@@ -9,7 +9,7 @@ import {
   SKILL_DATA,
 } from "@/constants";
 
-export const About = () => {
+export const Skills = () => {
   return (
     <section
       id="about"
