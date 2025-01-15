@@ -258,7 +258,7 @@ export const OTHER_SKILL = [
   },
 ] as const;
 
-export const PROJECTS = [
+export const RESOURCES = [
   {
     title: "GE | Crypto Client Panel",
     description:
@@ -355,8 +355,8 @@ export const NAV_LINKS = [
     link: "#skills",
   },
   {
-    title: "Projects",
-    link: "#projects",
+    title: "Resources",
+    link: "#resources",
   },
 ] as const;
 
