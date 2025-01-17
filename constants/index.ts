@@ -265,21 +265,8 @@ export const RESOURCES = [
       'GodsEye Crypto Client Panel is an advanced management interface tailored for efficient cryptocurrency mining operations. Designed for enthusiasts and professionals, this platform simplifies the deployment, monitoring, and optimization of mining activities across multiple devices and networks.',
     image: "/projects/project-1.png",
     link: "#"
-  },/**
-  {
-    title: "Interactive Cards Portfolio",
-    description:
-      'Step into the extraordinary world of my professional journey through the "Interactive Cards Portfolio" - an innovative and visually captivating platform that redefines the traditional portfolio experience. Ditching the conventional static layout, this portfolio leverages interactive cards to showcase my skills, projects, and personality in an engaging and dynamic manner.',
-    image: "/projects/project-2.png",
-    link: "https://example.com",
   },
-  {
-    title: "Space Themed Website",
-    description:
-      'Embark on an interstellar journey with my "Space Themed Website", a mesmerizing space-themed website that invites you to explore the cosmic wonders beyond our world. Immerse yourself in an awe-inspiring digital experience that blends cutting-edge design with the mysteries of the universe.',
-    image: "/projects/project-3.png",
-    link: "https://example.com",
-  },   */
+
 ] as const;
 
 export const FOOTER_DATA = [
