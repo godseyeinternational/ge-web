@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 
 export const siteConfig: Metadata = {
   title: "GodsEye International",
-  description: "GE.",
+  description: "GE | GodsEye demonstrates the vulnerabilities of the digital world. Specializing in advanced information retrieval and digital access, we uncover the hidden truths behind modern privacy and security.",
   keywords: [
     "reactjs",
     "nextjs",
