@@ -324,5 +324,5 @@ export const NAV_LINKS = [
 ] as const;
 
 export const LINKS = {
-  sourceCode: "https://github.com/GodsEyeGroup/",
+  sourceCode: "ttps://discord.gg/9GnFbpNR9y",
 };
