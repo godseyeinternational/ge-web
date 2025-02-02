@@ -259,13 +259,13 @@ export const OTHER_SKILL = [
 ] as const;
 
 export const RESOURCES = [
-  // {
-  //   title: "GE | Crypto Client Panel",
-  //   description:
-  //     'GodsEye Crypto Client Panel is an advanced management interface tailored for efficient cryptocurrency mining operations. Designed for enthusiasts and professionals, this platform simplifies the deployment, monitoring, and optimization of mining activities across multiple devices and networks.',
-  //   image: "/projects/project-1.png",
-  //   link: "#"
-  // },
+  {
+    title: "GE | Operation Skunk",
+    description:
+      'Details are currently under strict zero-access policy, more information will be released soon. ',
+    image: "/projects/project-1.png",
+    link: "#"
+  },
 
 ] as const;
 
