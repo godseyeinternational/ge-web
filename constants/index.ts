@@ -98,7 +98,7 @@ export const SOCIALS = [
   {
     name: "Discord",
     icon: FaDiscord,
-    link: "https://discord.com",
+    link: "https://discord.gg/9GnFbpNR9y",
   },
   {
     name: "Twitter",
@@ -259,13 +259,13 @@ export const OTHER_SKILL = [
 ] as const;
 
 export const RESOURCES = [
-  {
-    title: "GE | Crypto Client Panel",
-    description:
-      'GodsEye Crypto Client Panel is an advanced management interface tailored for efficient cryptocurrency mining operations. Designed for enthusiasts and professionals, this platform simplifies the deployment, monitoring, and optimization of mining activities across multiple devices and networks.',
-    image: "/projects/project-1.png",
-    link: "#"
-  },
+  // {
+  //   title: "GE | Crypto Client Panel",
+  //   description:
+  //     'GodsEye Crypto Client Panel is an advanced management interface tailored for efficient cryptocurrency mining operations. Designed for enthusiasts and professionals, this platform simplifies the deployment, monitoring, and optimization of mining activities across multiple devices and networks.',
+  //   image: "/projects/project-1.png",
+  //   link: "#"
+  // },
 
 ] as const;
 
@@ -274,11 +274,6 @@ export const FOOTER_DATA = [
     title: "Community",
     data: [
       {
-        name: "YouTube",
-        icon: FaYoutube,
-        link: "https://youtube.com",
-      },
-      {
         name: "GitHub",
         icon: RxGithubLogo,
         link: "https://github.com/GodsEyeGroup/",
@@ -286,7 +281,7 @@ export const FOOTER_DATA = [
       {
         name: "Discord",
         icon: RxDiscordLogo,
-        link: "https://discord.com",
+        link: "https://discord.gg/9GnFbpNR9y",
       },
     ],
   },
@@ -294,19 +289,9 @@ export const FOOTER_DATA = [
     title: "Social Media",
     data: [
       {
-        name: "Instagram",
-        icon: RxInstagramLogo,
-        link: "https://instagram.com/GodsEye",
-      },
-      {
         name: "Twitter",
         icon: RxTwitterLogo,
-        link: "https://x.com/GodsEye",
-      },
-      {
-        name: "Linkedin",
-        icon: RxLinkedinLogo,
-        link: "https://linkedin.com/GodsEye",
+        link: "https://x.com/GodsEyeGroup",
       },
     ],
   },
@@ -314,14 +299,9 @@ export const FOOTER_DATA = [
     title: "About Us",
     data: [
       {
-        name: "Become Sponsor",
-        icon: null,
-        link: "https://youtube.com/GodsEye",
-      },
-      {
         name: "Learning about us",
         icon: null,
-        link: "https://example.com",
+        link: "https://discord.gg/9GnFbpNR9y",
       },
       {
         name: "Contact Us",
