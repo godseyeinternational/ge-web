@@ -36,6 +36,6 @@ export const siteConfig: Metadata = {
   ] as Array<string>,
   authors: {
     name: "GodsEye",
-    url: "https://discord.gg/9GnFbpNR9y",
+    url: "mailto:godseyeinternational@proton.me",
   },
 } as const;
