@@ -291,7 +291,7 @@ export const FOOTER_DATA = [
       {
         name: "Twitter",
         icon: RxTwitterLogo,
-        link: "https://x.com/GodsEyeGroup",
+        link: "https://x.com/GodsEyeGlobal",
       },
     ],
   },
@@ -324,5 +324,5 @@ export const NAV_LINKS = [
 ] as const;
 
 export const LINKS = {
-  sourceCode: "ttps://discord.gg/9GnFbpNR9y",
+  sourceCode: "https://godseyeglobal.com/login",
 };
