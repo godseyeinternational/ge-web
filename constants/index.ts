@@ -280,6 +280,13 @@ export const RESOURCES = [
     image: "/projects/project-3.png",
     link: "https://github.com/GodsEyeGlobal/godseye-dashboard"
   },
+  {
+    title: "GE | WEB",
+    description:
+      'GE-WEB is a futuristic animated landing platform built with Next.js, React, Three.js, Framer Motion, and TailwindCSS, showcasing the GodsEye infrastructure stack, runtime architecture, and dashboard ecosystem through interactive visuals and high-performance frontend design.',
+    image: "/projects/project-4.png",
+    link: "https://github.com/GodseyeInternational/ge-web"
+  },
 
 ] as const;
 
