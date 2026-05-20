@@ -10,7 +10,7 @@
   },
   "author": {
     "name": "GodsEyeInternational",
-    "email": "godseyeinternational@proton.me",
+    "email": "contact@godseyeglobal.com",
     "url": "https://github.com/GodsEyeInternational"
   },
   "description": "GE International",
@@ -45,7 +45,7 @@
   "homepage": "https://github.com/GodsEyeInternational/ge-web#readme",
   "bugs": {
     "url": "https://github.com/GodsEyeInternational/ge-web/issues",
-    "email": "godseyeinternational@proton.me"
+    "email": "contact@godseyeglobal.com"
   },
   "dependencies": {
     "@heroicons/react": "^2.1.1",

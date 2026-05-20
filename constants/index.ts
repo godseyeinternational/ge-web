@@ -306,7 +306,7 @@ export const FOOTER_DATA = [
       {
         name: "Contact Us",
         icon: null,
-        link: "godseyeinternational@proton.me",
+        link: "contact@godseyeglobal.com",
       },
     ],
   },
