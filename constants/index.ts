@@ -262,9 +262,16 @@ export const RESOURCES = [
   {
     title: "GE | VPS API",
     description:
-      'GodsEye VPS API is a secure, orchestrator-controlled engineering runtime built for autonomous software development workflows. Designed around isolated execution, structured automation, and deterministic orchestration, the API enables repository analysis, intelligent code generation, build/test execution, failure handling, and multi-agent collaboration through a scalable FastAPI-powered backend. Built for reliability and observability, GodsEye combines AI-driven engineering with strict runtime validation, workspace isolation, checkpointing, and controlled execution to deliver a powerful next-generation autonomous development platform. ',
+      'GodsEye Runtime is the autonomous execution engine behind the GodsEye platform, designed to coordinate AI-driven software engineering workflows in secure isolated environments. It handles task orchestration, agent execution, repository analysis, build/testing pipelines, retry handling, and structured runtime operations using deterministic orchestration and sandboxed execution.',
     image: "/projects/project-1.png",
-    link: "#"
+    link: "https://github.com/GodsEyeGlobal/godseye-vps-api"
+  },
+  {
+    title: "GE | RUNTIME",
+    description:
+      'GodsEye VPS API is a secure orchestration API built for autonomous AI engineering workflows. It manages isolated workspaces, task execution, build/testing pipelines, agent coordination, and real-time runtime operations across VPS infrastructure.',
+    image: "/projects/project-2.png",
+    link: "https://github.com/GodsEyeGlobal/godseye-runtime"
   },
 
 ] as const;
