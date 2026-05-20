@@ -25,7 +25,7 @@ export const Navbar = () => {
             draggable={false}
             className="cursor-pointer"
           />
-          <div className="hidden md:flex md:selffont-bold ml-[10px] text-gray-300">GodsEye International</div>
+          <div className="hidden md:flex md:selffont-bold ml-[10px] text-gray-300">GodsEye Global</div>
         </Link>
 
         {/* Web Navbar */}
