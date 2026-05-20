@@ -93,7 +93,7 @@ export const SOCIALS = [
   {
     name: "Instagram",
     icon: RxInstagramLogo,
-    link: "https://instagram.com/GodsEyeGroup",
+    link: "https://instagram.com/GodsEyeGlobal",
   },
   {
     name: "Discord",
@@ -103,7 +103,7 @@ export const SOCIALS = [
   {
     name: "Twitter",
     icon: RxTwitterLogo,
-    link: "https://x.com/GodsEyeGroup",
+    link: "https://x.com/GodsEyeGlobal",
   },
 ] as const;
 
@@ -276,7 +276,7 @@ export const FOOTER_DATA = [
       {
         name: "GitHub",
         icon: RxGithubLogo,
-        link: "https://github.com/GodsEyeGroup/",
+        link: "https://github.com/GodsEyeGlobal/",
       },
       {
         name: "Discord",

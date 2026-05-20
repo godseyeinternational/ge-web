@@ -9,7 +9,7 @@ export const siteConfig: Metadata = {
     "vercel",
     "react",
     "GodsEye",
-    "GodsEyeGroup",
+    "GodsEyeGlobal",
     "react-icons",
     "cn",
     "clsx",
