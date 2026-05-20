@@ -9,9 +9,9 @@
     "lint": "next lint"
   },
   "author": {
-    "name": "GodsEyeGroup",
+    "name": "GodsEyeInternational",
     "email": "godseyeinternational@proton.me",
-    "url": "https://github.com/GodsEyeGroup"
+    "url": "https://github.com/GodsEyeInternational"
   },
   "description": "GE International",
   "keywords": [
@@ -40,11 +40,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/GodsEyeGroup/ge-web"
+    "url": "https://github.com/GodsEyeInternational/ge-web"
   },
-  "homepage": "https://github.com/GodsEyeGroup/ge-web#readme",
+  "homepage": "https://github.com/GodsEyeInternational/ge-web#readme",
   "bugs": {
-    "url": "https://github.com/GodsEyeGroup/ge-web/issues",
+    "url": "https://github.com/GodsEyeInternational/ge-web/issues",
     "email": "godseyeinternational@proton.me"
   },
   "dependencies": {
