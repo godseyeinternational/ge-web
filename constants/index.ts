@@ -260,9 +260,9 @@ export const OTHER_SKILL = [
 
 export const RESOURCES = [
   {
-    title: "GE | Operation Skunk",
+    title: "GE | VPS API",
     description:
-      'Details are currently under strict zero-access policy, more information will be released soon. ',
+      'GodsEye VPS API is a secure, orchestrator-controlled engineering runtime built for autonomous software development workflows. Designed around isolated execution, structured automation, and deterministic orchestration, the API enables repository analysis, intelligent code generation, build/test execution, failure handling, and multi-agent collaboration through a scalable FastAPI-powered backend. Built for reliability and observability, GodsEye combines AI-driven engineering with strict runtime validation, workspace isolation, checkpointing, and controlled execution to deliver a powerful next-generation autonomous development platform. ',
     image: "/projects/project-1.png",
     link: "#"
   },
@@ -324,5 +324,5 @@ export const NAV_LINKS = [
 ] as const;
 
 export const LINKS = {
-  Dashlogin: "https://godseyeglobal.com/login",
+  Dashlogin: "https://auth.godseyeglobal.com/login",
 };
