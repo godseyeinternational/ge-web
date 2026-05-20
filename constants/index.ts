@@ -262,16 +262,23 @@ export const RESOURCES = [
   {
     title: "GE | VPS API",
     description:
-      'GodsEye Runtime is the autonomous execution engine behind the GodsEye platform, designed to coordinate AI-driven software engineering workflows in secure isolated environments. It handles task orchestration, agent execution, repository analysis, build/testing pipelines, retry handling, and structured runtime operations using deterministic orchestration and sandboxed execution.',
+      'GodsEye VPS API is a secure orchestration API built for autonomous AI engineering workflows. It manages isolated workspaces, task execution, build/testing pipelines, agent coordination, and real-time runtime operations across VPS infrastructure.',
     image: "/projects/project-1.png",
     link: "https://github.com/GodsEyeGlobal/godseye-vps-api"
   },
   {
     title: "GE | RUNTIME",
     description:
-      'GodsEye VPS API is a secure orchestration API built for autonomous AI engineering workflows. It manages isolated workspaces, task execution, build/testing pipelines, agent coordination, and real-time runtime operations across VPS infrastructure.',
+      'GodsEye Runtime is the autonomous execution engine behind the GodsEye platform, designed to coordinate AI-driven software engineering workflows in secure isolated environments. It handles task orchestration, agent execution, repository analysis, build/testing pipelines, retry handling, and structured runtime operations using deterministic orchestration and sandboxed execution.',
     image: "/projects/project-2.png",
     link: "https://github.com/GodsEyeGlobal/godseye-runtime"
+  },
+  {
+    title: "GE | DASHBOARD",
+    description:
+      'GodsEye Dashboard is a centralized control panel for the GodsEye ecosystem. Manage VPS infrastructure, runtime agents, terminal access, Discord bots, Windows RDP services, and live system telemetry through the GodsEye backend architecture.',
+    image: "/projects/project-3.png",
+    link: "https://github.com/GodsEyeGlobal/godseye-dashboard"
   },
 
 ] as const;
