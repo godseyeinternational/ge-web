@@ -324,5 +324,5 @@ export const NAV_LINKS = [
 ] as const;
 
 export const LINKS = {
-  sourceCode: "https://godseyeglobal.com/login",
+  Dashlogin: "https://godseyeglobal.com/login",
 };

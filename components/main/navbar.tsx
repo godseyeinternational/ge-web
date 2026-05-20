@@ -43,7 +43,7 @@ export const Navbar = () => {
 
             {/* Source Code */}
             <Link
-              href={LINKS.sourceCode}
+              href={LINKS.Dashlogin}
               target="_blank"
               rel="noreferrer noopener"
               className="cursor-pointer hover:text-[rgb(112,66,248)] transition"
@@ -92,7 +92,7 @@ export const Navbar = () => {
               </Link>
             ))}
             <Link
-              href={LINKS.sourceCode}
+              href={LINKS.Dashlogin}
               target="_blank"
               rel="noreferrer noopener"
               className="cursor-pointer hover:text-[rgb(112,66,248)] transition text-center"
