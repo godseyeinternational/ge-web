@@ -48,7 +48,7 @@ export const Navbar = () => {
               rel="noreferrer noopener"
               className="cursor-pointer hover:text-[rgb(112,66,248)] transition"
             >
-              Gateway
+              Login
             </Link>
           </div>
         </div>
@@ -98,7 +98,7 @@ export const Navbar = () => {
               className="cursor-pointer hover:text-[rgb(112,66,248)] transition text-center"
               onClick={() => setIsMobileMenuOpen(false)}
             >
-              Gateway
+              Login
             </Link>
           </div>
 
