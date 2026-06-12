@@ -1,6 +1,14 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {}
-sentry: { hideSourceMaps: true }
-module.exports = nextConfig 
+const nextConfig = {
+  async redirects() {
+    return [
+      {
+        source: "/discord",
+        destination: "https://discord.gg/M3KtsyTdSf",
+        permanent: false,
+      },
+    ];
+  },
+};
 
-
+module.exports = nextConfig;
